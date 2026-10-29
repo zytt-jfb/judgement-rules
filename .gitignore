@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+*.xlsx
+*.xls
+*.jsonl
+downloads/
+out/
+state/
